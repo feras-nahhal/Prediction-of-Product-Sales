@@ -3,4 +3,5 @@
 #Introduction
 
 **READMEs are written in Markdown**, just like the Text cells in your Google Colab Notebooks.
-![40274d3f-dd79-4c8f-8537-c18edd174b13](https://github.com/user-attachments/assets/54006e7d-0ccc-448b-b0b4-01a9f1dafbb9)
+![e2953b47-ecda-4af6-81f9-932ba6c45a68](https://github.com/user-attachments/assets/6dc8b706-efb3-4a06-92e1-2179149337a6)
+
